@@ -1,0 +1,13 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: 1 billion row challenge in C++
+Upstream-Contact: Sebastián Mancilla <smancill@smancill.dev>
+Source: https://github.com/smancill/1brc
+
+# misc
+Files: README.md
+Copyright: © Sebastián Mancilla <smancill@smancill.dev>
+License: MIT-0
+
+Files: .gitignore
+Copyright: © Sebastián Mancilla <smancill@smancill.dev>
+License: MIT-0
